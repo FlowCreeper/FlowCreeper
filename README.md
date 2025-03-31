@@ -28,5 +28,7 @@ Meu nome é Caio David (FlowCreeper) e estou fazendo Ciência da Computação na
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlowCreeper&theme=chartreuse-dark)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FlowCreeper&theme=chartreuse-dark)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FlowCreeper&theme=chartreuse-dark&layout=compact)
